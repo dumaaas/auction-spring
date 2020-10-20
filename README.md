@@ -1,1 +1,3 @@
 # auctionSpring
+
+Spring Boot & MySQL & JSP project for selling and buying products. Registered users can put products on auctions and bid on existing products. Owner of product can close auction and winner is user with highest bid at that moment...
